@@ -9,3 +9,5 @@ This project showcases an end-to-end sales data analysis workflow using Power BI
   * Dashboard: Developed a clean, interactive dashboard summarizing key metrics, trends, and performance breakdowns by product, region, and time.
 
 This project demonstrates skills in data connectivity, modeling, analytical DAX, and impactful dashboard design.
+
+pbix file will be available upon request.

@@ -10,4 +10,7 @@ This project showcases an end-to-end sales data analysis workflow using Power BI
 
 This project demonstrates skills in data connectivity, modeling, analytical DAX, and impactful dashboard design.
 
+Video for Interactive Dashboard
+https://shorturl.at/ya7Np
+
 pbix file will be available upon request.
